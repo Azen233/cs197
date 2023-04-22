@@ -1,0 +1,7 @@
+name: cs197lec2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+prefix: /Users/mengyifei/opt/anaconda3/envs/cs197lec2
